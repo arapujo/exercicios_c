@@ -11,7 +11,7 @@
 
   #### &nbsp;&nbsp;&nbsp;&nbsp; - [Soma de 2 nºs](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001) - [Resolução](exercicios_c/exercicio_1001.c)
   
-  #### &nbsp;&nbsp;&nbsp;&nbsp; - [Bhaskara](https://www.urionlinejudge.com.br/judge/pt/problems/view/1036) - 
+  #### &nbsp;&nbsp;&nbsp;&nbsp; - [Bhaskara](https://www.urionlinejudge.com.br/judge/pt/problems/view/1036) - [Resolução](exercicios_c/exercicio_1036.c)
   
    #### &nbsp;&nbsp;&nbsp;&nbsp; - [Área do Círculo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002) - 
    
