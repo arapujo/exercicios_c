@@ -1,5 +1,4 @@
 /* Problema 1045 - URI Online Judge */
-
 /* Programa calculo tipo de triângulo */
 
 #include <stdio.h>
