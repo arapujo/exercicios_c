@@ -16,5 +16,7 @@
    #### &nbsp;&nbsp;&nbsp;&nbsp; - [Área do Círculo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002) - [Resolução](exercicios_c/exercicio_1002.c)
    
    #### &nbsp;&nbsp;&nbsp;&nbsp; - [Tipos de Triângulos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1045) - [Resolução](exercicios_c/exercicio_1045.c)
+   
+   #### &nbsp;&nbsp;&nbsp;&nbsp; - [Distância entre pontos](https://www.beecrowd.com.br/judge/pt/problems/view/1015) - [Resolução](exercicios_c/exercicio_1045.c)
   
 
