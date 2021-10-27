@@ -5,7 +5,7 @@
 
 ### Site dos exercícios: 💻
 
-&nbsp;&nbsp;&nbsp; - [URI Online Judge](https://www.urionlinejudge.com.br/judge/pt)
+&nbsp;&nbsp;&nbsp; - [beecrowd](https://www.beecrowd.com.br/judge/pt)
 
 ### Lista de exercícios: 📝
 
