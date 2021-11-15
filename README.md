@@ -23,6 +23,8 @@
    
    #### &nbsp;&nbsp;&nbsp;&nbsp; - [Salário](https://www.beecrowd.com.br/judge/pt/problems/view/1008) - [Resolução](exercicios_c/exercicio_1008.c)
    
+   #### &nbsp;&nbsp;&nbsp;&nbsp; - [DDD](https://www.beecrowd.com.br/judge/pt/problems/view/1050) - [Resolução](exercicios_c/exercicio_1050.c)
+   
    #### &nbsp;&nbsp;&nbsp;&nbsp; - [Meses](https://www.beecrowd.com.br/judge/pt/problems/view/1052) - [Resolução](exercicios_c/exercicio_1052.c)
    
    #### &nbsp;&nbsp;&nbsp;&nbsp; - [Reajuste salário](https://www.beecrowd.com.br/judge/pt/problems/view/1048) - [Resolução](exercicios_c/exercicio_1048.c)
