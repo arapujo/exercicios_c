@@ -32,5 +32,7 @@
    #### &nbsp;&nbsp;&nbsp;&nbsp; - [1048 - Reajuste salário](https://www.beecrowd.com.br/judge/pt/problems/view/1048) - [Resolução](exercicios_c/exercicio_1048.c)
    
    #### &nbsp;&nbsp;&nbsp;&nbsp; - [1035 - Teste de seleção 1](https://www.beecrowd.com.br/judge/pt/problems/view/1035) - [Resolução](exercicios_c/exercicio_1035.c)
+   
+   #### &nbsp;&nbsp;&nbsp;&nbsp; - [1038 - Lanche](https://www.beecrowd.com.br/judge/pt/problems/view/1038) - [Resolução](exercicios_c/exercicio_1038.c)
   
 
