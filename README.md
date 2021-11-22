@@ -30,5 +30,7 @@
    #### &nbsp;&nbsp;&nbsp;&nbsp; - [1052 - Meses](https://www.beecrowd.com.br/judge/pt/problems/view/1052) - [Resolução](exercicios_c/exercicio_1052.c)
    
    #### &nbsp;&nbsp;&nbsp;&nbsp; - [1048 - Reajuste salário](https://www.beecrowd.com.br/judge/pt/problems/view/1048) - [Resolução](exercicios_c/exercicio_1048.c)
+   
+   #### &nbsp;&nbsp;&nbsp;&nbsp; - [1035 - Teste de seleção 1](https://www.beecrowd.com.br/judge/pt/problems/view/1035) - [Resolução](exercicios_c/exercicio_1035.c)
   
 
