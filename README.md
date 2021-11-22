@@ -34,5 +34,7 @@
    #### &nbsp;&nbsp;&nbsp;&nbsp; - [1035 - Teste de seleção 1](https://www.beecrowd.com.br/judge/pt/problems/view/1035) - [Resolução](exercicios_c/exercicio_1035.c)
    
    #### &nbsp;&nbsp;&nbsp;&nbsp; - [1038 - Lanche](https://www.beecrowd.com.br/judge/pt/problems/view/1038) - [Resolução](exercicios_c/exercicio_1038.c)
+   
+   #### &nbsp;&nbsp;&nbsp;&nbsp; - [1067 - Números ímpares](https://www.beecrowd.com.br/judge/pt/problems/view/1067) - [Resolução](exercicios_c/exercicio_1067.c)
   
 
