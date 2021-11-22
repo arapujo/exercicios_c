@@ -1,4 +1,4 @@
-/* Problema 1050  - becrowd */
+/* Problema 1050  - beecrowd */
 /* Programa identifica DDD */
 
 #include<stdio.h>

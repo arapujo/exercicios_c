@@ -1,4 +1,4 @@
-/* Problema 1048  - becrowd */
+/* Problema 1048  - beecrowd */
 /* Programa calcula aumenta de salário */
 
 #include<stdio.h>
