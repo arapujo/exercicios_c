@@ -36,5 +36,7 @@
    #### &nbsp;&nbsp;&nbsp;&nbsp; - [1038 - Lanche](https://www.beecrowd.com.br/judge/pt/problems/view/1038) - [Resolução](exercicios_c/exercicio_1038.c)
    
    #### &nbsp;&nbsp;&nbsp;&nbsp; - [1067 - Números ímpares](https://www.beecrowd.com.br/judge/pt/problems/view/1067) - [Resolução](exercicios_c/exercicio_1067.c)
+   
+   #### &nbsp;&nbsp;&nbsp;&nbsp; - [1074 - Par ou ímpar](https://www.beecrowd.com.br/judge/pt/problems/view/1074) - [Resolução](exercicios_c/exercicio_1074.c)
   
 
