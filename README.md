@@ -9,24 +9,26 @@
 
 ### Lista de exercícios: 📝
 
-  #### &nbsp;&nbsp;&nbsp;&nbsp; - [Soma de 2 nºs](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001) - [Resolução](exercicios_c/exercicio_1001.c)
+  #### &nbsp;&nbsp;&nbsp;&nbsp; - [1001 - Soma de 2 nºs](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001) - [Resolução](exercicios_c/exercicio_1001.c)
   
-  #### &nbsp;&nbsp;&nbsp;&nbsp; - [Bhaskara](https://www.urionlinejudge.com.br/judge/pt/problems/view/1036) - [Resolução](exercicios_c/exercicio_1036.c)
+  #### &nbsp;&nbsp;&nbsp;&nbsp; - [1036 - Bhaskara](https://www.urionlinejudge.com.br/judge/pt/problems/view/1036) - [Resolução](exercicios_c/exercicio_1036.c)
   
-   #### &nbsp;&nbsp;&nbsp;&nbsp; - [Área do Círculo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002) - [Resolução](exercicios_c/exercicio_1002.c)
+   #### &nbsp;&nbsp;&nbsp;&nbsp; - [1002 - Área do Círculo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002) - [Resolução](exercicios_c/exercicio_1002.c)
    
-   #### &nbsp;&nbsp;&nbsp;&nbsp; - [Tipos de Triângulos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1045) - [Resolução](exercicios_c/exercicio_1045.c)
+   #### &nbsp;&nbsp;&nbsp;&nbsp; - [1045 - Tipos de Triângulos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1045) - [Resolução](exercicios_c/exercicio_1045.c)
    
-   #### &nbsp;&nbsp;&nbsp;&nbsp; - [Distância entre pontos](https://www.beecrowd.com.br/judge/pt/problems/view/1015) - [Resolução](exercicios_c/exercicio_1015.c)
+   #### &nbsp;&nbsp;&nbsp;&nbsp; - [1015 - Distância entre pontos](https://www.beecrowd.com.br/judge/pt/problems/view/1015) - [Resolução](exercicios_c/exercicio_1015.c)
    
-   #### &nbsp;&nbsp;&nbsp;&nbsp; - [Maior núnero](https://www.beecrowd.com.br/judge/pt/problems/view/1013) - [Resolução](exercicios_c/exercicio_1013.c)
+   #### &nbsp;&nbsp;&nbsp;&nbsp; - [1013 - Maior núnero](https://www.beecrowd.com.br/judge/pt/problems/view/1013) - [Resolução](exercicios_c/exercicio_1013.c)
    
-   #### &nbsp;&nbsp;&nbsp;&nbsp; - [Salário](https://www.beecrowd.com.br/judge/pt/problems/view/1008) - [Resolução](exercicios_c/exercicio_1008.c)
+   #### &nbsp;&nbsp;&nbsp;&nbsp; - [1008 - Salário](https://www.beecrowd.com.br/judge/pt/problems/view/1008) - [Resolução](exercicios_c/exercicio_1008.c)
    
-   #### &nbsp;&nbsp;&nbsp;&nbsp; - [DDD](https://www.beecrowd.com.br/judge/pt/problems/view/1050) - [Resolução](exercicios_c/exercicio_1050.c)
+   #### &nbsp;&nbsp;&nbsp;&nbsp; - [1050 - DDD](https://www.beecrowd.com.br/judge/pt/problems/view/1050) - [Resolução](exercicios_c/exercicio_1050.c)
    
-   #### &nbsp;&nbsp;&nbsp;&nbsp; - [Meses](https://www.beecrowd.com.br/judge/pt/problems/view/1052) - [Resolução](exercicios_c/exercicio_1052.c)
+   #### &nbsp;&nbsp;&nbsp;&nbsp; - [1051 - Imposto de renda](https://www.beecrowd.com.br/judge/pt/problems/view/1051) - [Resolução](exercicios_c/exercicio_1051.c)
    
-   #### &nbsp;&nbsp;&nbsp;&nbsp; - [Reajuste salário](https://www.beecrowd.com.br/judge/pt/problems/view/1048) - [Resolução](exercicios_c/exercicio_1048.c)
+   #### &nbsp;&nbsp;&nbsp;&nbsp; - [1052 - Meses](https://www.beecrowd.com.br/judge/pt/problems/view/1052) - [Resolução](exercicios_c/exercicio_1052.c)
+   
+   #### &nbsp;&nbsp;&nbsp;&nbsp; - [1048 - Reajuste salário](https://www.beecrowd.com.br/judge/pt/problems/view/1048) - [Resolução](exercicios_c/exercicio_1048.c)
   
 
