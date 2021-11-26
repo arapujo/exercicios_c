@@ -19,7 +19,7 @@
 |6|1013| [Maior núnero](https://www.beecrowd.com.br/judge/pt/problems/view/1013)| [Resolução](exercicios_c/exercicio_1013.c)
 |7|1008|[Salário](https://www.beecrowd.com.br/judge/pt/problems/view/1008)| [Resolução](exercicios_c/exercicio_1008.c)
 |8|1050|[DDD](https://www.beecrowd.com.br/judge/pt/problems/view/1050)| [Resolução](exercicios_c/exercicio_1050.c)
-|9|&1051|[Imposto de renda](https://www.beecrowd.com.br/judge/pt/problems/view/1051)| [Resolução](exercicios_c/exercicio_1051.c)
+|9|1051|[Imposto de renda](https://www.beecrowd.com.br/judge/pt/problems/view/1051)| [Resolução](exercicios_c/exercicio_1051.c)
 |10|1052|[Meses](https://www.beecrowd.com.br/judge/pt/problems/view/1052)| [Resolução](exercicios_c/exercicio_1052.c)
 |11|1048|[Reajuste salarial](https://www.beecrowd.com.br/judge/pt/problems/view/1048)| [Resolução](exercicios_c/exercicio_1048.c)
 |12|1035|[Teste de seleção 1](https://www.beecrowd.com.br/judge/pt/problems/view/1035)| [Resolução](exercicios_c/exercicio_1035.c)
