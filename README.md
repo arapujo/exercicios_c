@@ -26,5 +26,7 @@
 |13|1038|[Lanche](https://www.beecrowd.com.br/judge/pt/problems/view/1038)| [Resolução](exercicios_c/exercicio_1038.c)
 |14|1067|[Números ímpares](https://www.beecrowd.com.br/judge/pt/problems/view/1067)| [Resolução](exercicios_c/exercicio_1067.c)
 |15|1074|[Par ou ímpar](https://www.beecrowd.com.br/judge/pt/problems/view/1074)| [Resolução](exercicios_c/exercicio_1074.c)
+|16|1061|[Tempo de um evento](https://www.beecrowd.com.br/judge/pt/problems/view/1061)| [Resolução](exercicios_c/exercicio_1061.c)
+  
   
 
