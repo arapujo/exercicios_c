@@ -9,16 +9,13 @@
 
 ### Lista de exercícios: 📝
 
-   
-   
-   
 | Nº | Código      |  Problema    | Resolução  |
 |---|---|---|---|
 |1|1001|[Soma de 2 nºs](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001)| [Resolução](exercicios_c/exercicio_1001.c)|
-|2|1036| [Bhaskara](https://www.urionlinejudge.com.br/judge/pt/problems/view/1036)  | [Resolução](exercicios_c/exercicio_1036.c)  |
-|3|1002| [Área do Círculo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002)   | [Resolução](exercicios_c/exercicio_1002.c)  |
+|2|1036|[Bhaskara](https://www.urionlinejudge.com.br/judge/pt/problems/view/1036)| [Resolução](exercicios_c/exercicio_1036.c)  |
+|3|1002| [Área do Círculo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002)| [Resolução](exercicios_c/exercicio_1002.c)  |
 |4|1045 |[Tipos de Triângulos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1045) | [Resolução](exercicios_c/exercicio_1045.c)
-|5|1015 |[Distância entre pontos](https://www.beecrowd.com.br/judge/pt/problems/view/1015) | [Resolução](exercicios_c/exercicio_1015.c)
+|5|1015 |[Distância entre pontos](https://www.beecrowd.com.br/judge/pt/problems/view/1015)| [Resolução](exercicios_c/exercicio_1015.c)
 |6|1013| [Maior núnero](https://www.beecrowd.com.br/judge/pt/problems/view/1013)| [Resolução](exercicios_c/exercicio_1013.c)
 |7|1008|[Salário](https://www.beecrowd.com.br/judge/pt/problems/view/1008)| [Resolução](exercicios_c/exercicio_1013.c)
 |8|1050|[DDD](https://www.beecrowd.com.br/judge/pt/problems/view/1050)| [Resolução](exercicios_c/exercicio_1050.c)
