@@ -1,4 +1,5 @@
-/* Problema - salário */
+//* Problema 1008 - URI Online Judge */
+/* Programa calcula salário*/
 
 #include <stdio.h>
 

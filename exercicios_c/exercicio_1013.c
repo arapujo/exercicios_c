@@ -1,5 +1,5 @@
 /* Problema 1013 URI Online Judge */
-/* Problema maior entre 3 nºs */
+/* Problema calcula maior entre 3 nºs */
 
 #include <stdio.h>
 #include <math.h>

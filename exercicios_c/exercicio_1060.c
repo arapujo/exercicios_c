@@ -1,5 +1,5 @@
-/* Problema 1048  - beecrowd */
-/* Programa calcula quantida de números positivos */
+/* Problema 1060  - beecrowd */
+/* Programa calcula quantidade de números positivos */
 
 #include<stdio.h>
 

@@ -1,3 +1,6 @@
+/* Problema 1051  - beecrowd */
+/* Programa calcula imposto de renda */
+
 #include<stdio.h>
 
 int main(){
