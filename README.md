@@ -28,6 +28,7 @@
 |15|1074|[Par ou ímpar](https://www.beecrowd.com.br/judge/pt/problems/view/1074)|⠀⠀  [Resolução](exercicios_c/exercicio_1074.c)
 |16|1061|[Tempo de um evento](https://www.beecrowd.com.br/judge/pt/problems/view/1061)| ⠀⠀ [Resolução](exercicios_c/exercicio_1061.c)
 |17|1168|[LED](https://www.beecrowd.com.br/judge/pt/problems/view/1168)|⠀⠀  [Resolução](exercicios_c/exercicio_1168.c)
+|18|1142|[LED](https://www.beecrowd.com.br/judge/pt/problems/view/1142)|⠀⠀  [Resolução](exercicios_c/exercicio_1142.c)
   
   
 
