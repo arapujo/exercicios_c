@@ -21,7 +21,6 @@ int main(){
     int seg_fim; 
     int seg_duracao;
 
-
     //Inicio
     scanf("Dia %d", &d_inicio);
     scanf("%d : %d : %d\n", &h_inicio, &min_inicio, &seg_inicio);
