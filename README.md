@@ -31,7 +31,8 @@
 |18|1142|[PUM](https://www.beecrowd.com.br/judge/pt/problems/view/1142)|⠀⠀  [Resolução](exercicios_c/exercicio_1142.c)
 |19|1073|[Quadrado de pares](https://www.beecrowd.com.br/judge/pt/problems/view/1073)|⠀⠀  [Resolução](exercicios_c/exercicio_1073.c)
 |20|1114|[Senha fixa](https://www.beecrowd.com.br/judge/pt/problems/view/1114)|⠀⠀  [Resolução](exercicios_c/exercicio_1114.c)
-|21|1172|[Substituição em vetor I](https://www.beecrowd.com.br/judge/pt/problems/view/1172)|⠀⠀  [Resolução](exercicios_c/exercicio_1172.c)
+|21|1172|[Substituição em Vetor I](https://www.beecrowd.com.br/judge/pt/problems/view/1172)|⠀⠀  [Resolução](exercicios_c/exercicio_1172.c)
+|22|1173|[Preenchimento de Vetor I](https://www.beecrowd.com.br/judge/pt/problems/view/1173)|⠀⠀  [Resolução](exercicios_c/exercicio_1173.c)
   
   
 
