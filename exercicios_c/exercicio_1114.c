@@ -5,7 +5,7 @@
 
 int main(){
 
-    int senha, senha_correta;
+    int senha;
 
     do{
         scanf("%d", &senha);

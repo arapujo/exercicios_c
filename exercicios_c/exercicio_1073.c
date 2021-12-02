@@ -13,7 +13,6 @@ int main(){
         if(num % 2 == 0){
             printf("%d^2 = %d\n", i++, i*i);
         }
-    }
-    
+
     return 0;
 }  
