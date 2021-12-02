@@ -30,6 +30,7 @@
 |17|1168|[LED](https://www.beecrowd.com.br/judge/pt/problems/view/1168)|⠀⠀  [Resolução](exercicios_c/exercicio_1168.c)
 |18|1142|[PUM](https://www.beecrowd.com.br/judge/pt/problems/view/1142)|⠀⠀  [Resolução](exercicios_c/exercicio_1142.c)
 |19|1073|[Quadrado de pares](https://www.beecrowd.com.br/judge/pt/problems/view/1073)|⠀⠀  [Resolução](exercicios_c/exercicio_1073.c)
+|20|1114|[Senha fixa](https://www.beecrowd.com.br/judge/pt/problems/view/1114)|⠀⠀  [Resolução](exercicios_c/exercicio_1114.c)
   
   
 
