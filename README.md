@@ -35,6 +35,7 @@
 |22|1173|[Preenchimento de Vetor I](https://www.beecrowd.com.br/judge/pt/problems/view/1173)|⠀⠀  [Resolução](exercicios_c/exercicio_1173.c)
 |23|1174|[Seleção em Vetor I](https://www.beecrowd.com.br/judge/pt/problems/view/1174)|⠀⠀  [Resolução](exercicios_c/exercicio_1174.c)
 |24|XXXX|Matriz 3 x 3|⠀⠀  [Resolução](exercicios_c/matriz_3_x_3.c)
+|25|1180|[Menor e Posição](https://www.beecrowd.com.br/judge/pt/problems/view/1180)|⠀⠀  [Resolução](exercicios_c/exercicio_1180.c)
   
   
 
