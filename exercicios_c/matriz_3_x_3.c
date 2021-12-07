@@ -1,4 +1,4 @@
-//Programa preenche matriz 3x3
+//Programa lê matriz 3x3 com valores inteiros entre 1 e 9
 
 #include <stdio.h>
 
