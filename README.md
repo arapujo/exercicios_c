@@ -33,6 +33,7 @@
 |20|1114|[Senha fixa](https://www.beecrowd.com.br/judge/pt/problems/view/1114)|⠀⠀  [Resolução](exercicios_c/exercicio_1114.c)
 |21|1172|[Substituição em Vetor I](https://www.beecrowd.com.br/judge/pt/problems/view/1172)|⠀⠀  [Resolução](exercicios_c/exercicio_1172.c)
 |22|1173|[Preenchimento de Vetor I](https://www.beecrowd.com.br/judge/pt/problems/view/1173)|⠀⠀  [Resolução](exercicios_c/exercicio_1173.c)
+|23|1174|[Seleção em Vetor I](https://www.beecrowd.com.br/judge/pt/problems/view/1174)|⠀⠀  [Resolução](exercicios_c/exercicio_1174.c)
   
   
 
