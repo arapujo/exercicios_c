@@ -37,7 +37,7 @@
 |24|XXXX|Matriz 3 x 3|⠀⠀  [Resolução](exercicios_c/matriz_3_x_3.c)
 |25|XXXX|Vetor dinâmico|⠀⠀  [Resolução](exercicios_c/vetor_dinamico.c)
 |26|1180|[Menor e Posição](https://www.beecrowd.com.br/judge/pt/problems/view/1180)|⠀⠀  [Resolução](exercicios_c/exercicio_1180.c)
-|27|1040|[Média 3](https://www.beecrowd.com.br/judge/pt/problems/view/1140)|⠀⠀  [Resolução](exercicios_c/exercicio_1140.c)
+|27|1040|[Média 3](https://www.beecrowd.com.br/judge/pt/problems/view/1040)|⠀⠀  [Resolução](exercicios_c/exercicio_1040.c)
   
   
 
