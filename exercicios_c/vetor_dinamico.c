@@ -24,10 +24,9 @@ int main(){
         for(i = 0; i < num_elementos; i++){ 
             printf("%d ", vetor[i]);        //imprimi vetor
         }
+    }
 
     free(vetor); //libera espaço alocado na memória
-
-    }
 
     return 0;
 }
