@@ -39,6 +39,7 @@
 |26|1180|[Menor e Posição](https://www.beecrowd.com.br/judge/pt/problems/view/1180)|⠀⠀  [Resolução](exercicios_c/exercicio_1180.c)
 |27|1040|[Média 3](https://www.beecrowd.com.br/judge/pt/problems/view/1040)|⠀⠀  [Resolução](exercicios_c/exercicio_1040.c)
 |28|1041|[Coordenadas de um ponto](https://www.beecrowd.com.br/judge/pt/problems/view/1041)|⠀⠀  [Resolução](exercicios_c/exercicio_1041.c)
+|29|1042|[Sort Simples](https://www.beecrowd.com.br/judge/pt/problems/view/1042)|⠀⠀  [Resolução](exercicios_c/exercicio_1042.c)
   
   
 
