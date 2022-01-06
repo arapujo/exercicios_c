@@ -20,7 +20,7 @@ int main() {
     matriz = (int**)malloc(linhas*sizeof(int*));
 
     //aloca colunas da matriz
-    for(i=0;i<colunas;i++){
+    for(i = 0; i < colunas; i++){
         matriz[i] = (int*)malloc(colunas*sizeof(int));
     }
 
