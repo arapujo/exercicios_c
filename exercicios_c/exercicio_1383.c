@@ -1,9 +1,9 @@
-// "SUDOKU" - Problema 1183 - beecrowd 
+// "SUDOKU" - Problema 1383 - beecrowd 
 //Algoritmo verifica por instâncias (3x3) se a solução do SUDOKU é válida
 
 #include <stdio.h>
 
-int main() {
+int main(){
     int n,                    // número de matrizes
         i, j,                 // índices da matriz
         c,                    // iterador
@@ -11,7 +11,7 @@ int main() {
         aux_2,                // quadrado dos elementos linha
         k = 0,                // número de instâncias
         r = 0,                // verificador
-        quad = 285, 
+        quad = 285,           // soma dos quadrados dos elementos (para linha e coluna serem válidas quad = 285)
         matriz[9][9],         // matriz 9x9
         soma_c[9],            // soma da coluna
         soma_l[9],            // soma da linha
@@ -42,7 +42,7 @@ int main() {
             soma_l[i] += aux_2;                     //soma linha
             sub_matriz[i/3][j/3] += aux;
 
-            //verifica se 9 linhas e colunas foram lidas 
+            //verifica se 9 linhas e colunas foram lidas e se o quadrado da soma dos elementos linha e coluna são diferente de 285
             if (i == 8 && soma_c[j] != quad && soma_l[i] != quad) {
                 r = 1; 
               }
@@ -74,7 +74,7 @@ int main() {
         }
 
         r = 0;
-
+        
     }
           
     return 0;
