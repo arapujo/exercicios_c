@@ -52,6 +52,7 @@
 |1174|[Seleção em Vetor I](https://www.beecrowd.com.br/judge/pt/problems/view/1174)|⠀⠀  [Resolução](exercicios_c/exercicio_1174.c)
 |1180|[Menor e Posição](https://www.beecrowd.com.br/judge/pt/problems/view/1180)|⠀⠀  [Resolução](exercicios_c/exercicio_1180.c)
 |1184|[Abaixo da Diagonal Principal](https://www.beecrowd.com.br/judge/pt/problems/view/1184)|⠀⠀  [Resolução](exercicios_c/exercicio_1184.c)
+|1184|[Sudoku](https://www.beecrowd.com.br/judge/pt/problems/view/1383)|⠀⠀  [Resolução](exercicios_c/exercicio_1383.c)
 |1871|[Zero vale Zero](https://www.beecrowd.com.br/judge/pt/problems/view/1871)|⠀⠀  [Resolução](exercicios_c/exercicio_1871.c)
 |XXXX|Matriz 3 x 3|⠀⠀  [Resolução](exercicios_c/matriz_3_x_3.c)
 |XXXX|Vetor dinâmico|⠀⠀  [Resolução](exercicios_c/vetor_dinamico.c)
