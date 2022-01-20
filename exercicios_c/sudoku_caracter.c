@@ -37,7 +37,7 @@ int main(){
         size = 10, 
         r = 0;
     
-    char string1[size] , string2[size], string3[size], string4[size], string5[size], string6[size], string7[size], string8[size], string9[size];
+    char string1[size], string2[size], string3[size], string4[size], string5[size], string6[size], string7[size], string8[size], string9[size];
 
     //lê quantidade de tabuleiros
     scanf("%d", &n);
