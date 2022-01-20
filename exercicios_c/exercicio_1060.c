@@ -5,21 +5,19 @@
 
 int main(){
 
-    float valores[6];
+    double valores[6];
 
-    int i, c = 0;
+    int i, c = 1;
 
-    for (i = 1; i < 6; i++);{
-        scanf("%f ", &valores[i]);
-    }
-
-    for (i = 1; i < 6; i++);{
-        if(valores[i] > 0 ){
+    for(i = 1; i < 6; i++){
+       
+            scanf("%lf ", &valores[i]);
+            if(valores[i] > 0 ){
             c++;
         }
     }
 
-    printf("%d", c);
+    printf("%d valores positivos\n", c);
     
     return 0;
 }

@@ -11,9 +11,9 @@ int main(){
         scanf("%d", &senha);
 
         if(senha != 2002){
-            printf("Senha invalida\n");
+            printf("Senha Invalida\n");
         } else {
-            printf("Acesso permitido\n");
+            printf("Acesso Permitido\n");
         }
     }
     while(senha!=2002);
