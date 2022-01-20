@@ -172,6 +172,7 @@ int main(){
 
     //imprimi resultado
     printf("Instancia %d\n", k++);
+      
     //verifica se soma dos caracteres de cada string corresponde a 877
     if(soma1 == 877 && soma2 == 877 && soma3 == 877 && soma4 == 877 && soma5 == 877 && soma6 == 877 && soma7 == 877 && soma8 == 877 && soma9 == 877 && r == 1){
         printf("SIM\n\n");
