@@ -34,15 +34,19 @@
 |1040|[Média 3](https://www.beecrowd.com.br/judge/pt/problems/view/1040)|⠀⠀  [Resolução](exercicios_c/exercicio_1040.c)
 |1041|[Coordenadas de um ponto](https://www.beecrowd.com.br/judge/pt/problems/view/1041)|⠀⠀  [Resolução](exercicios_c/exercicio_1041.c)
 |1042|[Sort Simples](https://www.beecrowd.com.br/judge/pt/problems/view/1042)|⠀⠀  [Resolução](exercicios_c/exercicio_1042.c)
-|1045 |[Tipos de Triângulos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1045) |⠀⠀  [Resolução](exercicios_c/exercicio_1045.c) ⠀⠀ |
+|1043|[Triângulo](https://www.beecrowd.com.br/judge/pt/problems/view/1043)|⠀⠀  [Resolução](exercicios_c/exercicio_1043.c)
+|1045|[Tipos de Triângulos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1045) |⠀⠀  [Resolução](exercicios_c/exercicio_1045.c) ⠀⠀ |
 |1048|[Reajuste salarial](https://www.beecrowd.com.br/judge/pt/problems/view/1048)|⠀⠀  [Resolução](exercicios_c/exercicio_1048.c)
 |1050|[DDD](https://www.beecrowd.com.br/judge/pt/problems/view/1050)|⠀⠀  [Resolução](exercicios_c/exercicio_1050.c)⠀⠀ 
 |1051|[Imposto de renda](https://www.beecrowd.com.br/judge/pt/problems/view/1051)| ⠀⠀ [Resolução](exercicios_c/exercicio_1051.c)
 |1052|[Meses](https://www.beecrowd.com.br/judge/pt/problems/view/1052)|⠀⠀  [Resolução](exercicios_c/exercicio_1052.c)
+|1060|[Números positivos](https://www.beecrowd.com.br/judge/pt/problems/view/1060)| ⠀⠀ [Resolução](exercicios_c/exercicio_1060.c)
 |1061|[Tempo de um evento](https://www.beecrowd.com.br/judge/pt/problems/view/1061)| ⠀⠀ [Resolução](exercicios_c/exercicio_1061.c)
 |1067|[Números ímpares](https://www.beecrowd.com.br/judge/pt/problems/view/1067)|⠀⠀  [Resolução](exercicios_c/exercicio_1067.c)
+|1070|[Seis números ímpares](https://www.beecrowd.com.br/judge/pt/problems/view/1070)|⠀⠀  [Resolução](exercicios_c/exercicio_1070.c)
 |1073|[Quadrado de pares](https://www.beecrowd.com.br/judge/pt/problems/view/1073)|⠀⠀  [Resolução](exercicios_c/exercicio_1073.c)
 |1074|[Par ou ímpar](https://www.beecrowd.com.br/judge/pt/problems/view/1074)|⠀⠀  [Resolução](exercicios_c/exercicio_1074.c)
+|1078|[Tabuada](https://www.beecrowd.com.br/judge/pt/problems/view/1078)|⠀⠀  [Resolução](exercicios_c/exercicio_1078.c)
 |1114|[Senha fixa](https://www.beecrowd.com.br/judge/pt/problems/view/1114)|⠀⠀  [Resolução](exercicios_c/exercicio_1114.c)
 |1117|[Validação de notas](https://www.beecrowd.com.br/judge/pt/problems/view/1117)|⠀⠀  [Resolução](exercicios_c/exercicio_1117.c)
 |1142|[PUM](https://www.beecrowd.com.br/judge/pt/problems/view/1142)|⠀⠀  [Resolução](exercicios_c/exercicio_1142.c)
