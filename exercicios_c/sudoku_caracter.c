@@ -34,19 +34,21 @@ int main(){
         k = 1;  //número de instâncias
 
     int i,        
-        size = 9, 
+        size = 10, 
         r = 0;
     
     char string1[size] , string2[size], string3[size], string4[size], string5[size], string6[size], string7[size], string8[size], string9[size];
 
     //lê quantidade de tabuleiros
     scanf("%d", &n);
+    fseek(stdin,0,SEEK_END);
+
+  for(c = 0; c < n; c++){
 
     //linha 1
     gets(string1);
-    len1 = strlen(string1);
 
-  for(c = 0; c < n; c++){
+    len1 = strlen(string1);
 
     for (i = 0; i < len1; i++)
 
@@ -150,7 +152,8 @@ int main(){
         soma9 = soma9 + string9[i];
     }
 
-    /*printf("\nSoma dos caracteres string1: %d ",soma1);
+     //soma de cada linha
+    /*printf("\nSoma dos caracteres string1: %d ", soma1);
     printf("\nSoma dos caracteres string2: %d ", soma2);
     printf("\nSoma dos caracteres string3: %d ", soma3);
     printf("\nSoma dos caracteres string4: %d ", soma4);
@@ -170,7 +173,7 @@ int main(){
     //imprimi resultado
     printf("Instancia %d\n", k++);
     //verifica se soma dos caracteres de cada string corresponde a 877
-    if(soma1 == 0 && soma2 == 877 && soma3 == 877 && soma4 == 877 && soma5 == 877 && soma6 == 877 && soma7 == 877 && soma8 == 877 && soma9 == 877 && r == 1){
+    if(soma1 == 877 && soma2 == 877 && soma3 == 877 && soma4 == 877 && soma5 == 877 && soma6 == 877 && soma7 == 877 && soma8 == 877 && soma9 == 877 && r == 1){
         printf("SIM\n\n");
     } else {
         printf("NAO\n\n");
