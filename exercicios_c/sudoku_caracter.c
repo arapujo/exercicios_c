@@ -37,7 +37,7 @@ int main(){
         size = 10, 
         r = 0;
     
-    char string1[size] , string2[size], string3[size], string4[size], string5[size], string6[size], string7[size], string8[size], string9[size];
+    char string1[size], string2[size], string3[size], string4[size], string5[size], string6[size], string7[size], string8[size], string9[size];
 
     //lê quantidade de tabuleiros
     scanf("%d", &n);
@@ -172,6 +172,7 @@ int main(){
 
     //imprimi resultado
     printf("Instancia %d\n", k++);
+      
     //verifica se soma dos caracteres de cada string corresponde a 877
     if(soma1 == 877 && soma2 == 877 && soma3 == 877 && soma4 == 877 && soma5 == 877 && soma6 == 877 && soma7 == 877 && soma8 == 877 && soma9 == 877 && r == 1){
         printf("SIM\n\n");
@@ -193,5 +194,5 @@ int main(){
   }
 
     return 0;
-
+    
 }
