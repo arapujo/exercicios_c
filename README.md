@@ -11,6 +11,7 @@
 
 |  Código |  Problema    | Resolução |
 |:--------:|:--------------|-----------|
+|⠀1000⠀|[Hello World](https://www.urionlinejudge.com.br/judge/pt/problems/view/1000)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|⠀⠀ [Resolução](exercicios_c/exercicio_1000.c)
 |⠀1001⠀|[Soma de 2 nºs](https://www.urionlinejudge.com.br/judge/pt/problems/view/1001)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀|⠀⠀ [Resolução](exercicios_c/exercicio_1001.c) ⠀⠀ |
 |1002|[Área do círculo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1002)|⠀⠀  [Resolução](exercicios_c/exercicio_1002.c)⠀⠀  |
 |1003|[Soma Simples](https://www.urionlinejudge.com.br/judge/pt/problems/view/1003)|⠀⠀  [Resolução](exercicios_c/exercicio_1003.c)⠀⠀  |
