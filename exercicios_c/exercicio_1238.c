@@ -6,7 +6,6 @@
 
 int main(){
 
-
     int i, j, num, len1, len2, aux ;
     char string1[50], string2[50];
 
