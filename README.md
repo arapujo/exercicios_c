@@ -60,6 +60,7 @@
 |1238|[Combinador](https://www.beecrowd.com.br/judge/pt/problems/view/1238)|⠀⠀  [Resolução](exercicios_c/exercicio_1238.c)
 |1253|[Cifra de César](https://www.beecrowd.com.br/judge/pt/problems/view/1253)|⠀⠀  [Resolução](exercicios_c/exercicio_1253.c)
 |1383|[Sudoku](https://www.beecrowd.com.br/judge/pt/problems/view/1383)|⠀⠀  [Resolução](exercicios_c/exercicio_1383.c)
+|1435|[Matriz Quadrada I](https://www.beecrowd.com.br/judge/pt/problems/view/1435)|⠀⠀  [Resolução](exercicios_c/exercicio_1435.c)
 |1534|[Matriz 123](https://www.beecrowd.com.br/judge/pt/problems/view/1534)|⠀⠀  [Resolução](exercicios_c/exercicio_1534.c)
 |1871|[Zero vale Zero](https://www.beecrowd.com.br/judge/pt/problems/view/1871)|⠀⠀  [Resolução](exercicios_c/exercicio_1871.c)
 |XXXX|Sudoku caracter|⠀⠀  [Resolução](exercicios_c/sudoku_caracter.c)
