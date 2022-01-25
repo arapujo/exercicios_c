@@ -64,7 +64,7 @@
 |1534|[Matriz 123](https://www.beecrowd.com.br/judge/pt/problems/view/1534)|⠀⠀  [Resolução](exercicios_c/exercicio_1534.c)
 |1871|[Zero vale Zero](https://www.beecrowd.com.br/judge/pt/problems/view/1871)|⠀⠀  [Resolução](exercicios_c/exercicio_1871.c)
 |XXXX|Sudoku caracter|⠀⠀  [Resolução](exercicios_c/sudoku_caracter.c)
-|XXXX|Matriz 3 x 3|⠀⠀  [Resolução](exercicios_c/matriz_3_x_3.c)
+|XXXX|Sudoku 10 números|⠀⠀  [Resolução](exercicios_c/sudoku_10_numeros.c)
 |XXXX|Vetor dinâmico|⠀⠀  [Resolução](exercicios_c/vetor_dinamico.c)
 |XXXX|Matriz dinâmica|⠀⠀  [Resolução](exercicios_c/matriz_dinamica.c)
 
