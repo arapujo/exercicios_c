@@ -38,9 +38,9 @@
 |25|1043|[Triângulo](https://www.beecrowd.com.br/judge/pt/problems/view/1043)|⠀⠀  [Resolução](exercicios_c/exercicio_1043.c)
 |26|1045|[Tipos de Triângulos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1045) |⠀⠀  [Resolução](exercicios_c/exercicio_1045.c) ⠀⠀ |
 |27|1048|[Reajuste salarial](https://www.beecrowd.com.br/judge/pt/problems/view/1048)|⠀⠀  [Resolução](exercicios_c/exercicio_1048.c)
-|28|[DDD](https://www.beecrowd.com.br/judge/pt/problems/view/1050)|⠀⠀  [Resolução](exercicios_c/exercicio_1050.c)⠀⠀ 
-|29|[Imposto de renda](https://www.beecrowd.com.br/judge/pt/problems/view/1051)| ⠀⠀ [Resolução](exercicios_c/exercicio_1051.c)
-|30|[Meses](https://www.beecrowd.com.br/judge/pt/problems/view/1052)|⠀⠀  [Resolução](exercicios_c/exercicio_1052.c)
+|28|1050|[DDD](https://www.beecrowd.com.br/judge/pt/problems/view/1050)|⠀⠀  [Resolução](exercicios_c/exercicio_1050.c)⠀⠀ 
+|29|1051|[Imposto de renda](https://www.beecrowd.com.br/judge/pt/problems/view/1051)| ⠀⠀ [Resolução](exercicios_c/exercicio_1051.c)
+|30|1052|[Meses](https://www.beecrowd.com.br/judge/pt/problems/view/1052)|⠀⠀  [Resolução](exercicios_c/exercicio_1052.c)
 |31|1060|[Números positivos](https://www.beecrowd.com.br/judge/pt/problems/view/1060)| ⠀⠀ [Resolução](exercicios_c/exercicio_1060.c)
 |32|1061|[Tempo de um evento](https://www.beecrowd.com.br/judge/pt/problems/view/1061)| ⠀⠀ [Resolução](exercicios_c/exercicio_1061.c)
 |33|1067|[Números ímpares](https://www.beecrowd.com.br/judge/pt/problems/view/1067)|⠀⠀  [Resolução](exercicios_c/exercicio_1067.c)
