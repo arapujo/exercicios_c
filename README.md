@@ -3,7 +3,7 @@
 #### Repositório criado para armazenar práticas da linguagem <b>C</b>, do curso de <b>Lógica de Programação</b> da [UNIFESP de SJC](https://www.unifesp.br/campus/sjc/).
 
 
-### Site dos exercícios: 💻
+### Site de alguns exercícios: 💻
 
 &nbsp;&nbsp;&nbsp; - [beecrowd](https://www.beecrowd.com.br/judge/pt)
 
