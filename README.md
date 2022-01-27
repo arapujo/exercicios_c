@@ -64,10 +64,10 @@
 |51|1534|[Matriz 123](https://www.beecrowd.com.br/judge/pt/problems/view/1534)|⠀⠀  [Resolução](exercicios_c/exercicio_1534.c)
 |52|1871|[Zero vale Zero](https://www.beecrowd.com.br/judge/pt/problems/view/1871)|⠀⠀  [Resolução](exercicios_c/exercicio_1871.c)
 |53|2242|[Huaauhahhuahau](https://www.beecrowd.com.br/judge/pt/problems/view/2242)|⠀⠀  [Resolução](exercicios_c/exercicio_2242.c)
-|XXXX|Sudoku caracter|⠀⠀  [Resolução](exercicios_c/sudoku_caracter.c)
-|XXXX|Sudoku 10 números|⠀⠀  [Resolução](exercicios_c/sudoku_10_numeros.c)
-|XXXX|Vetor dinâmico|⠀⠀  [Resolução](exercicios_c/vetor_dinamico.c)
-|XXXX|Matriz dinâmica|⠀⠀  [Resolução](exercicios_c/matriz_dinamica.c)
+|XX|XXXX|Sudoku caracter|⠀⠀  [Resolução](exercicios_c/sudoku_caracter.c)
+|XX|XXXX|Sudoku 10 números|⠀⠀  [Resolução](exercicios_c/sudoku_10_numeros.c)
+|XX|XXXX|Vetor dinâmico|⠀⠀  [Resolução](exercicios_c/vetor_dinamico.c)
+|XX|XXXX|Matriz dinâmica|⠀⠀  [Resolução](exercicios_c/matriz_dinamica.c)
 
   
   
