@@ -64,6 +64,8 @@
 |51|1534|[Matriz 123](https://www.beecrowd.com.br/judge/pt/problems/view/1534)|⠀⠀  [Resolução](exercicios_c/exercicio_1534.c)
 |52|1871|[Zero vale Zero](https://www.beecrowd.com.br/judge/pt/problems/view/1871)|⠀⠀  [Resolução](exercicios_c/exercicio_1871.c)
 |53|2242|[Huaauhahhuahau](https://www.beecrowd.com.br/judge/pt/problems/view/2242)|⠀⠀  [Resolução](exercicios_c/exercicio_2242.c)
+|54|1095|[Sequencia IJ 1](https://www.beecrowd.com.br/judge/pt/problems/view/1095)|⠀⠀  [Resolução](exercicios_c/exercicio_1095.c)
+|55|2006|[Identificando o Chá](https://www.beecrowd.com.br/judge/pt/problems/view/2006)|⠀⠀  [Resolução](exercicios_c/exercicio_2006.c)
 |XX|XXXX|Sudoku caracter|⠀⠀  [Resolução](exercicios_c/sudoku_caracter.c)
 |XX|XXXX|Sudoku 10 números|⠀⠀  [Resolução](exercicios_c/sudoku_10_numeros.c)
 |XX|XXXX|Sudoku posições vazias|⠀⠀  [Resolução](exercicios_c/sudoku_posicoes_vazia.c)
