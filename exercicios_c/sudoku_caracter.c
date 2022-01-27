@@ -1,5 +1,5 @@
 /* Sudoku com letras */
-/* Programa verifica se Sudoku é válido, através da soma das letras de cada linha de acordo com seu código ASCII*/
+/* Programa verifica se Sudoku é válido, através da soma das letras (A até I) de cada linha de acordo com seu código ASCII*/
 
 #include <stdio.h>
 #include <string.h>
